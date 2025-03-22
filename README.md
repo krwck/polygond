@@ -1,6 +1,6 @@
 # Polygond
 
-[Polygondwanaland](https://kinggizzardandthelizardwizard.com/polygondwanaland) is arguably the best King Gizzard and the Lizzard Wizard's album. I didn't have time to code the animated effect inspired by the album's cover, so I told LLM to do it. This is the initial result.
+[Polygondwanaland](https://kinggizzardandthelizardwizard.com/polygondwanaland) is arguably the best King Gizzard and the Lizzard Wizard's album. I didn't have time to code the animated effect inspired by the album's cover, so I told LLM to do it. [This is the initial result](https://krwck.github.io/polygond/).
 
 # React + Vite
 
