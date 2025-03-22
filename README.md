@@ -1,3 +1,7 @@
+# Polygond
+
+[Polygondwanaland](https://kinggizzardandthelizardwizard.com/polygondwanaland) is arguably the best King Gizzard and the Lizzard Wizard's album. I didn't have time to code the animated effect inspired by the album's cover, so I told LLM to do it. This is the initial result.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
